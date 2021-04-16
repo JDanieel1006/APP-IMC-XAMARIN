@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "AVQAhqKurP5YqZNz8TPSNVALatz+THWfL2V87OFeRQHD4a1a73qs8BVKwuMACCT/ltSloLGIvpUipVfeQ0GO8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\Documents\\Xamarin\\APP IMC\\IMC_APK\\IMC_APK\\IMC_APK.iOS\\IMC_APK.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
